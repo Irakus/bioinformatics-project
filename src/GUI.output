@@ -1,0 +1,6 @@
+Traceback (most recent call last):
+  File "C:/Users/patra/PycharmProjects/BioInfo/src/GUI/GUI.py", line 22, in <module>
+    import GUI_support
+  File "C:\Users\patra\PycharmProjects\BioInfo\src\GUI\GUI_support.py", line 22, in <module>
+    from src.FileFormats import supports
+ModuleNotFoundError: No module named 'src'
